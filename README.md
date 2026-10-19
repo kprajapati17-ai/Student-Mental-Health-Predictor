@@ -58,5 +58,5 @@ Student-Mental-Health-Predictor/
 
 You can explore the project through the live demo below.
 
-🔗 **Live Demo:** [Open Student Mental Health Score Predictor](YOUR_LIVE_DEMO_URL)
+🔗 **Live Demo:** [Open Student Mental Health Score Predictor](https://student-mental-health-predictor-ea1p.onrender.com)
 
