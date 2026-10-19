@@ -54,9 +54,9 @@ Student-Mental-Health-Predictor/
 ├── Student Social Media And Mental Health Impact.csv
 └── README.md
 ```
+
 ## 🚀 Try the Project
 
 You can explore the project through the live demo below.
 
-🔗 **Live Demo:** [Open Student Mental Health Score Predictor](https://student-mental-health-predictor-ea1p.onrender.com)
-
+🔗 **Live Demo:** [Open Student Mental Health Score Predictor](https://student-mental-health-predictor-1-2iyy.onrender.com)
